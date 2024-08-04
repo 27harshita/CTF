@@ -1,1 +1,1 @@
-# FLASK_CTF
+# CTF
